@@ -570,7 +570,7 @@ input {
 
 /*=============== PLACES ===============*/
 .place__card, .place__img {
-  height: 230px;
+  height: 120px;
 }
 
 .place__container {
